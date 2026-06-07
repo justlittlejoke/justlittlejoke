@@ -28,7 +28,7 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,git,linux,vscode&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,js,git&theme=dark" alt="Tech Stack" />
 </div>
 
 ---
@@ -59,5 +59,5 @@
 ---
 
 <div align="center">
-  <i>✨ "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler</i>
+  <i>💀 «Что не убивает меня, то делает меня сильнее.» — Фридрих Ницше</i>
 </div>
