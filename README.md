@@ -13,13 +13,13 @@
 
 <div align="center">
   <a href="https://discordapp.com/users/clown876" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white&border_radius=20" alt="Discord" />
   </a>
   <a href="https://t.me/justlittlej0ke" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&border_radius=20" alt="Telegram" />
   </a>
   <a href="https://github.com/justlittlejoke" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&border_radius=20" alt="GitHub" />
   </a>
 </div>
 
@@ -46,11 +46,6 @@
 ---
 
 ### ⚡ GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=justlittlejoke&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Joke's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justlittlejoke&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=justlittlejoke&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
