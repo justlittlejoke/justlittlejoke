@@ -30,14 +30,9 @@
 
 <br/>
 
-<details>
-  <summary>⚡ Statistics</summary>
-  <br/>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=justlittlejoke&show_icons=true&theme=radical" alt="Joke's GitHub stats" />
-  </div>
-  <br/>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justlittlejoke&layout=compact&theme=radical" alt="Top Languages" />
-  </div>
-</details>
+<h3 align="center">⚡ Statistics</h3>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=justlittlejoke&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Joke's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justlittlejoke&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
