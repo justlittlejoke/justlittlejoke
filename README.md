@@ -59,5 +59,5 @@
 ---
 
 <div align="center">
-  <i>💀 «Что не убивает меня, то делает меня сильнее.» — Фридрих Ницше</i>
+  <i>🖤 "Hope is the worst of evils, for it prolongs the torment of man." — Friedrich Nietzsche</i>
 </div>
